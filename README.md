@@ -42,8 +42,6 @@ Note: Make sure you have Visual Studio installed on your machine.
 
 Once the application is installed, launch ZataHub and log in with your credentials. Create a new meeting or join an existing one to start collaborating with others seamlessly.
 
-For detailed information on using ZataHub, refer to the [User Guide](docs/user-guide.md).
-
 ## License
 
 ZataHub is licensed under the [ZataHub Video Communications, Inc](https://zatahub.io).
