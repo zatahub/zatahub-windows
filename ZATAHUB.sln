@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34316.72
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZATAHUB", "ZATAHUB.csproj", "{6511CBA6-5189-49A8-86E5-87AFFEA37707}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Zatahub Installer", "Zatahub Installer\Zatahub Installer.vdproj", "{86C17EE1-9803-46F5-BE9A-3C25ED74D780}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6511CBA6-5189-49A8-86E5-87AFFEA37707}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6511CBA6-5189-49A8-86E5-87AFFEA37707}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6511CBA6-5189-49A8-86E5-87AFFEA37707}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6511CBA6-5189-49A8-86E5-87AFFEA37707}.Release|Any CPU.Build.0 = Release|Any CPU
+		{86C17EE1-9803-46F5-BE9A-3C25ED74D780}.Debug|Any CPU.ActiveCfg = Debug
+		{86C17EE1-9803-46F5-BE9A-3C25ED74D780}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A5878EFD-DC3F-402E-AA9D-A3483B65080C}
+	EndGlobalSection
+EndGlobal
